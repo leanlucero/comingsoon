@@ -1,23 +1,18 @@
-import logo from './logo.svg';
 import './App.css';
+import { SocialIcon } from 'react-social-icons'
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="coverPage">
+      <div className="wrapper">
+        <h1>Página Web en construcción<span className="dot">.</span></h1>
+        <p>Mientras contactanos en:</p>
+        <div className="icons">
+          <SocialIcon className="aux" url="https://instagram.com/aluminioitalia" bgColor="black"/>
+          <SocialIcon className="aux" network="whatsapp" url="https://wa.me/542213511106" bgColor="black" />
+        </div>        
+        <img src="/icoitalia.png" alt="Flowers in Chania" />
+      </div>
     </div>
   );
 }
