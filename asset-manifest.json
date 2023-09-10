@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/comingsoon/static/css/main.0b2c1a2a.css",
-    "main.js": "/comingsoon/static/js/main.3d966ded.js",
-    "static/js/787.576d73b1.chunk.js": "/comingsoon/static/js/787.576d73b1.chunk.js",
-    "static/media/rename.jpeg": "/comingsoon/static/media/rename.f19bb6a014647f97f38a.jpeg",
-    "index.html": "/comingsoon/index.html",
-    "main.0b2c1a2a.css.map": "/comingsoon/static/css/main.0b2c1a2a.css.map",
-    "main.3d966ded.js.map": "/comingsoon/static/js/main.3d966ded.js.map",
-    "787.576d73b1.chunk.js.map": "/comingsoon/static/js/787.576d73b1.chunk.js.map"
+    "main.css": "/aluminioitalia.com.ar/static/css/main.725b3c1b.css",
+    "main.js": "/aluminioitalia.com.ar/static/js/main.234c4d11.js",
+    "static/js/787.576d73b1.chunk.js": "/aluminioitalia.com.ar/static/js/787.576d73b1.chunk.js",
+    "static/media/rename.jpeg": "/aluminioitalia.com.ar/static/media/rename.f19bb6a014647f97f38a.jpeg",
+    "index.html": "/aluminioitalia.com.ar/index.html",
+    "main.725b3c1b.css.map": "/aluminioitalia.com.ar/static/css/main.725b3c1b.css.map",
+    "main.234c4d11.js.map": "/aluminioitalia.com.ar/static/js/main.234c4d11.js.map",
+    "787.576d73b1.chunk.js.map": "/aluminioitalia.com.ar/static/js/787.576d73b1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0b2c1a2a.css",
-    "static/js/main.3d966ded.js"
+    "static/css/main.725b3c1b.css",
+    "static/js/main.234c4d11.js"
   ]
 }
