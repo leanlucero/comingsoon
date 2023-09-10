@@ -11,7 +11,7 @@ function App() {
           <SocialIcon className="aux" url="https://instagram.com/aluminioitalia" bgColor="black"/>
           <SocialIcon className="aux" network="whatsapp" url="https://wa.me/542213511106" bgColor="black" />
         </div>        
-        <img src="/icoitalia.png" alt="Flowers in Chania" />
+        <img src={process.env.PUBLIC_URL + '/icoitalia.png'} alt="logo aluminio italia" />
       </div>
     </div>
   );
